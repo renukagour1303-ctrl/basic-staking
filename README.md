@@ -20,5 +20,6 @@ starting with a simple two-function contract and expanding into a fully-featured
 - **Admin Controls**: Add features for managing staking parameters.
 
 ## 5. Contract Address
-*To be updated after deployment to the Stacks blockchain.*
+ST2J3J3M9J03SQ3RVNSB7212RTKXC7ZB1FXJW1AC9.learning-path-builder
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6b7eab7a-e133-4f15-bbf3-68b975e7f7b0" />
 
